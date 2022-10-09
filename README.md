@@ -15,7 +15,7 @@ Looking for web3 opportunities and working remotely is highly preferred.
 
 - 2019.12 - now  Bytedance
   - 2020.07 - now, Volcano Engine (Enterprise Service of Bytedance), recommendation system: cpp, python, ...
-  - 2019.12 - 2022.06,  Lark (Office App of Bytedance), office automation system, backend: golang, js/ts, ..
+  - 2019.12 - 2020.06,  Lark (Office App of Bytedance), office automation system, backend: golang, js/ts, ..
 - 2014.10 - 2019.11 Alibaba
   - 2014.10 - 2016.10, Tmall (B2C mall of Alibaba), goods rating system, backend: java
   - 2016.11 - 2019.11, Cainiao AI (logistics support of Alibaba), vehicle routing system with DSL: java
