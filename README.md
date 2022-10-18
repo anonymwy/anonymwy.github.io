@@ -8,7 +8,7 @@ Looking for web3 opportunities and working remotely is highly preferred.
 
 # Education
 
-- 2012.01 - 2013.11  Hong Kong Univ. of Science & Technology, Dept. of Industrial Engineering & Logistics Management (now Dept. of Industrial Engineering & Decision Analysis), master degree
+- 2012.01 - 2013.11 Hong Kong Univ. of Science & Technology, Dept. of Industrial Engineering & Logistics Management (now Dept. of Industrial Engineering & Decision Analysis), master degree
 - 2007.09 - 2011.06 Nanjing University, Software Institute, bachelor degree (GPA 4.313/5.0, rank 7/254)
 
 # Working Experience
@@ -16,7 +16,7 @@ Looking for web3 opportunities and working remotely is highly preferred.
 - 2019.12 - now  Bytedance
   - 2020.07 - now, Volcano Engine (enterprise service of Bytedance)
 
-  works on ToB Recommendation System, which starts from migrating and customizing components of Bytesdance's internal recommendation system, to provide recommendation service to enterprise customers, and these components vary from online services (on k8s usually), machine learning model services (similary to Tensorflow Serving), machine learning parameter server to bigdata services like (Bytedance-customized) HDFS, Kafka, Yarn, Hive, Flink etc.
+  works on ToB Recommendation System, which starts from migrating and customizing components of Bytesdance's internal recommendation system, to provide recommendation service to enterprise customers, and these components vary from online services (on Kubernetes usually), machine learning model services (similary to Tensorflow Serving), machine learning parameter server to bigdata services like (Bytedance-customized) HDFS, Kafka, Yarn, Hive, Flink etc.
 
   - 2019.12 - 2020.06,  Lark (office app of Bytedance)
 
@@ -27,8 +27,8 @@ Looking for web3 opportunities and working remotely is highly preferred.
 
   works on Vehicle Routing System which wraps a self-developed solver base on ALNS(Adaptive Large-Scale Neighbor Search) algorithm with a DSL user interface; corresponding administration system is also included.
 
-  works on Logistics Package Data System which is a typical bigdata application: basicly online service is queries of inversed-index， data offline batch processing runs on ODPS(Alibaba's Open Data Processing Platform, now MaxComputing), and data realtime streaming processing runs on Blink(Alibaba's version of Flink).
+  works on Logistics Package Data System which is a typical bigdata application: basicly online service is queries of inversed-index, data offline batch processing runs on ODPS(Alibaba's Open Data Processing Platform, now MaxComputing), and data realtime streaming processing runs on Blink(Alibaba's version of Flink).
 
   - 2014.10 - 2016.10, Tmall (B2C mall of Alibaba)
 
-  works on Goods Rating System which is typical Alibaba-style backend micro-services: service written in Java with Spring and Mybatis, providing/calling RPC service with HSF, producing/consuming messages with Nofity/MetaQ, accessing sharded/replicated MySQL with TDDL, also involves other ali-middleware like Tair, Diamond, Switch, etc.
+  works on Goods Rating System which is typical Alibaba-style backend micro-services: service written in Java with Spring and Mybatis, providing/calling RPC service with HSF, producing/consuming messages with Nofity/MetaQ, accessing sharded/replicated MySQL with TDDL, also involves other Alibaba-middleware like Tair, Diamond, Switch, etc.
