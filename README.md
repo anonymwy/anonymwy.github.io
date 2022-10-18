@@ -20,7 +20,7 @@ Looking for web3 opportunities and working remotely is highly preferred.
 
   - 2019.12 - 2020.06,  Lark (office app of Bytedance)
 
-  works on NoCode/LowCode Tools on Lark Open Platform, with backend micro-services written in Golang(Kitex) and Typescript(Nodejs).
+  works on NoCode/LowCode tools of Lark Open Platform, with backend micro-services written in Golang(Kitex) and Typescript(Nodejs).
 
 - 2014.10 - 2019.11 Alibaba
   - 2016.11 - 2019.11, Cainiao AI (logistics support of Alibaba)
