@@ -1,10 +1,8 @@
-<h1 align="center">Alex</h1>
+<h1 align="center">Eric</h1>
 
 <p align="center">(+86)13486145609</p>
 
 <p align="center">anonymwy@gmail.com</p>
-
-Looking for web3 opportunities and working remotely is highly preferred.
 
 # Education
 
@@ -13,8 +11,11 @@ Looking for web3 opportunities and working remotely is highly preferred.
 
 # Working Experience
 
-- 2019.12 - now  Bytedance
-  - 2020.07 - now, Volcano Engine (enterprise service of Bytedance)
+- 2022.12 - now A Pre-IPO company
+  starts working on a kotlin written business service.
+
+- 2019.12 - 2022.11  Bytedance
+  - 2020.07 - 2022.11, Volcano Engine (enterprise service of Bytedance)
 
   works on ToB Recommendation System, which starts from migrating and customizing components of Bytesdance's internal recommendation system, to provide recommendation service to enterprise customers, and these components vary from online services (on Kubernetes usually), machine learning model services (similary to Tensorflow Serving), machine learning parameter server to bigdata services like (Bytedance-customized) HDFS, Kafka, Yarn, Hive, Flink etc.
 
