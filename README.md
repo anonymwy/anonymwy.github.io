@@ -12,7 +12,8 @@
 # Working Experience
 
 - 2022.12 - now A Pre-IPO company
-  starts working on a kotlin written business service.
+
+  starts working on a kotlin written backend service.
 
 - 2019.12 - 2022.11  Bytedance
   - 2020.07 - 2022.11, Volcano Engine (enterprise service of Bytedance)
